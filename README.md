@@ -10,6 +10,7 @@ the office mode enables office people to acces the customers entered on that par
 It also enable office people to sor the customers entered according to their names.
 It also enables them to know the profit made on a particular day.
 
+![alt text](https://raw.githubusercontent.com/Nithin3/BurgerStore/blob/master/UML%20Diagram%20(1).pdf)
 The user should enter all the valid inputs.
 
 ---
